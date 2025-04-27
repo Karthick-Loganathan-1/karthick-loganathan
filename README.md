@@ -24,7 +24,6 @@ Check out the full source code and simulation scripts here:
 ## 📂 Files
 
 - [Resume (CV)](./Karthick_CV.pdf)
-- [Project Code Repository]
 
 ---
 
