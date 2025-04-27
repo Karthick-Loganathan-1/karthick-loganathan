@@ -16,7 +16,7 @@ Presented at ICONN 2025
 ## 🔗 My Project Repository
 
 Check out the full source code and simulation scripts here:  
-👉 [Heusler-STT-Simulations](https://github.com/karthick-loganathan/Heusler-STT-Simulations)
+👉 [Heusler-STT-Simulations](https://github.com/Karthick-Loganathan-1/Heusler-alloy-STT)
 
 
 ---
