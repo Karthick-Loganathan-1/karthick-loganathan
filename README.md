@@ -19,12 +19,12 @@ Presented at ICONN 2025
 ## 📂 Files
 
 - [Resume (CV)](./Karthick_CV.pdf)
-- [Project Code Repository](https://github.com/your-username/heusler-spintronics)
+- [Project Code Repository]
 
 ---
 
 ## 📫 Contact
 
-📧 Email: karthick.nanotech@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/karthick](https://linkedin.com/in/karthick)
+📧 Email: karthick251204@gmail.com  
+
 
