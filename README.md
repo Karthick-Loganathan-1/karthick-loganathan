@@ -13,7 +13,11 @@ Presented at ICONN 2025
 - STT modeling with Kwant (Python)
 
 [🔗 Abstract (PDF)](./Heusler_DFT_STT_Abstract.txt)
-- [Project Code Repository] (
+## 🔗 My Project Repository
+
+Check out the full source code and simulation scripts here:  
+👉 [Heusler-STT-Simulations](https://github.com/karthick-loganathan/Heusler-STT-Simulations)
+
 
 ---
 
